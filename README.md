@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+<!---bash <(curl -s https://raw.githubusercontent.com/kfhunter1/SMN_CONTENT/main/auto_setup.sh)
 kfhunter1/kfhunter1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
